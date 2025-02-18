@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+worddoc/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+generated_docs/
+*.docx
+
+# Local configuration
+*.log
+.env

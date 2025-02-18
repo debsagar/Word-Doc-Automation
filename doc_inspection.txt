@@ -1,0 +1,63 @@
+Document Inspection Results
+=========================
+
+paragraph_0:
+Text: Created with an evaluation copy of Aspose.Words. To remove all limitations, you can use Free Temporary License  HYPERLINK "https://products.aspose.com/words/temporary-license/" https://products.aspose.com/words/temporary-license/
+Style: Normal
+--------------------------------------------------
+paragraph_1:
+Text: Meeting Summary - Monday, 10th February 2025
+Style: Title
+--------------------------------------------------
+paragraph_2:
+Text: Meeting Summary
+Style: Heading 1
+--------------------------------------------------
+paragraph_3:
+Text: The meeting focused on chunking strategies for vector databases, project scope, and onboarding new members.
+Style: Normal
+--------------------------------------------------
+paragraph_4:
+Text: Key Discussions & Findings
+Style: Heading 1
+--------------------------------------------------
+paragraph_5:
+Text: 1. Understanding Vector Databases & Chunking Strategies- Different chunking methods explored: Character/Token-Based, Recursive, Semantic, Cluster, LLM- Recursive chunking chosen for implementation efficiency.2. Moving Towards a Local Implementation- Decision to store and retrieve chunked data locally.- Future cloud integration configuration to be retained.3. Chunking for PDFs - Additional Considerations- Challenges with handling structured data like tables in PDFs.- Decision to use open-source tools like Marker PDF or Unstructured.4. Project Prioritization & Task Allocation- Wrap up Word DOC agent project this week.- Continue R&D on chunking strategy.
+Style: Normal
+--------------------------------------------------
+paragraph_6:
+Text: Decisions and Action Items
+Style: Heading 1
+--------------------------------------------------
+paragraph_7:
+Text: 1. Use recursive chunking for vector databases.2. Store and retrieve chunked data locally.3. Utilize open-source tools for complex PDF structures.4. Prioritize Word DOC agent project and continue chunking strategy R&D.
+Style: Normal
+--------------------------------------------------
+paragraph_8:
+Text: Team Assignments
+Style: Heading 1
+--------------------------------------------------
+paragraph_9:
+Text: ✅ Sagar Deb - Evaluate Marker PDF & Unstructured, modify chunking storage, collaborate with Anishi Raj.✅ Aadarsh Bhalerao - Assist Sagar, ensure Word DOC project progress, validate chunking strategy.✅ Deblin Chaudhuri - Provide feedback on chunking methodology, refine query parameters.✅ Anishi Raj - Shadow Sagar, contribute to testing and validation.
+Style: Normal
+--------------------------------------------------
+paragraph_10:
+Text: Next Meeting
+Style: Heading 1
+--------------------------------------------------
+paragraph_11:
+Text: 📅 Tentative Date: Mid-week check-in (12th or 13th February 2025) 📌 Agenda: Review test results from Marker PDF & Unstructured, validate local storage changes for chunking, check Word DOC agent progress.
+Style: Normal
+--------------------------------------------------
+paragraph_12:
+Text: Evaluation Only. Created with Aspose.Words. Copyright 2003-2025 Aspose Pty Ltd.
+Style: Normal
+--------------------------------------------------
+paragraph_13:
+Text: Generated on: {}
+Style: Footer
+--------------------------------------------------
+paragraph_14:
+Text: Meeting Minutes
+Style: Header
+--------------------------------------------------
