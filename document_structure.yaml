@@ -1,0 +1,28 @@
+company_info:
+  logo: "test.jpeg"  # Using your existing test image
+  name: "Digital Technology Partner"
+  document_title: "Technical Implementation Report"
+  document_subtitle: "Vector Database Integration Project"
+  prepared_for: "Client Name: TechCorp Solutions"
+  prepared_by: 
+    - "Sagar Deb"
+    - "Aadarsh Bhalerao"
+  document_date: "February 2024"
+  version: "v1.0"
+  confidentiality: "Confidential"
+
+sections:
+  - title: "Executive Summary"
+    level: 1
+  
+  - title: "Company Overview"
+    level: 1
+    
+  - title: "Products and Services"
+    level: 1
+    
+  - title: "Market Analysis"
+    level: 1
+    
+  - title: "Financial Projections"
+    level: 1 
